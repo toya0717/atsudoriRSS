@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 # HTMLの構造が変わった場合は、このブロックのみ修正する
 # ─────────────────────────────────────────────
 
-TARGET_URL = "https://bang-dream-on.bushimo.jp/news/"
+TARGET_URL = "https://bang-dream-on.bushimo.jp/news"
 BASE_URL   = "https://bang-dream-on.bushimo.jp"
 
 # ニュース一覧のコンテナ要素（CSSセレクタ）
